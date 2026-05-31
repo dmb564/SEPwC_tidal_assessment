@@ -12,7 +12,7 @@ from scipy import stats
 import matplotlib.dates as mdates
 import argparse
 
-
+@pytest.fixture
 def read_tidal_data(dover):
 
     return
