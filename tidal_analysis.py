@@ -11,7 +11,7 @@ import matplotlib.dates as mdates
 import argparse
 
 
-def read_tidal_data(filename):
+def read_tidal_data(dover):
 
     return
     
