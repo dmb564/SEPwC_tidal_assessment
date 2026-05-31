@@ -4,6 +4,7 @@ import datetime
 import os
 import numpy as np
 import uptide
+import pytest
 import pytz
 import math
 from scipy import stats
