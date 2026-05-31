@@ -7,6 +7,7 @@ import uptide
 import pytest
 import pytz
 import math
+import wget
 from scipy import stats
 import matplotlib.dates as mdates
 import argparse
